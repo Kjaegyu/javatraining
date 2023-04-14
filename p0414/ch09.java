@@ -2,7 +2,7 @@ package p0414;
 
 import java.util.Random;
 
-public class ch09 {
+public class CH09 {
 	public static void main(String[] args) {
 		Random rand = new Random();
 		

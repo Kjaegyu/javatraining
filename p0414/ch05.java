@@ -2,7 +2,7 @@ package p0414;
 
 import java.util.Scanner;
 
-public class ch05 {
+public class CH05 {
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);
 		

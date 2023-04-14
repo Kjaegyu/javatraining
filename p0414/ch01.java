@@ -2,7 +2,7 @@ package p0414;
 //읽은 2개의 실숫값 중에서 큰 쪽을 표시 (방법1: if문)
 import java.util.Scanner;
 
-public class ch01 {
+public class CH01 {
 
 	public static void main(String[] args) {
 		Scanner stdIn = new Scanner(System.in);

@@ -2,7 +2,7 @@ package p0414;
 
 import java.util.Scanner;
 
-public class ch07 {
+public class CH07 {
 	
 	
 	
